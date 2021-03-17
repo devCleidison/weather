@@ -9,7 +9,6 @@ import Conditions from '../../components/Conditions';
 import Forecast from '../../components/Forecast';
 
 import api, { key } from '../../services/api';
-import { SafeAreaInsetsContext } from "react-native-safe-area-context";
 
 export default function Home() {
 
